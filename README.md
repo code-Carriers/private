@@ -1,0 +1,6 @@
+利用ssm技术（Spring+SpringMVC+Mybatis）开发的一个web项目
+主要实现登陆注册
+采用MVC模式先封装实体类，在dao层与数据库映射对持久层事务进行提交
+在service层进行业务处理，在controller层进行用户的请求跳转
+web.xml配置好用户的拦截请求
+整个项目有数据库  可以直接导入。
